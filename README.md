@@ -22,6 +22,18 @@
 - Source: SMS Spam Collection Dataset
 - Total messages: 5,574
 - Language: English
+
+# Libraries used : 
+- pandas – for loading, cleaning
+- numpy –  array manipulation.
+- matplotlib –  charts and plots.
+- seaborn – confusion matrix heatmap.
+- scikit-learn (sklearn) – used for:
+  - CountVectorizer and TfidfVectorizer to convert text messages into numerical feature vectors.
+   - train_test_split to divide the data into training and testing sets.
+   - MultinomialNB for implementing the Naive Bayes.
+   - classification_report and confusion_matrix for evaluating model performance.
+
   
 **Labels:**
  - ham → legitimate messages
