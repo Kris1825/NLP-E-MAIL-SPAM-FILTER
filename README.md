@@ -4,7 +4,7 @@
 
 ![Report](report.png)
 
-**✅ Accuracy: ~99%**
+# ✅ Accuracy: ~99%
 - The model performs exceptionally well at distinguishing spam from legitimate messages.
 
  # Visualization
